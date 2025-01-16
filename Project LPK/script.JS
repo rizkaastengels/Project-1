@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const userInput = document.getElementById("user-input");
 
     // Pesan selamat datang
-    const welcomeMessage = `<div class="bot-message"><strong>BeautyChat:</strong> Halo! Kami dapat membantu anda untuk mengetahui teknik sintesis nanomaterial carbon nanotube. hal yang dijelaskan meliputi: alat dan bahan, skema kerja, dan karakterisasi. </div>`;
+    const welcomeMessage = `<div class="bot-message"><strong>BeautyChat:</strong> Halo! Kami dapat membantu anda untuk mengatasi permasalahan kulit seperti kulit kering, kulit berminyak, kulit berjerawat dan kulit sensitif. </div>`;
     chatDisplay.innerHTML = welcomeMessage;
 
     if (sendButton) {
