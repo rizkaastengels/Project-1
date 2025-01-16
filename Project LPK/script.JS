@@ -12,7 +12,7 @@ const skinProblems = {
                     "4. Lindungi kulit dengan sunscreen di siang hari",
                     "5. Pertimbangkan untuk menggunakan facial oil di malam hari"
                 ],
-                tips: "Pastikan untuk minum cukup air dan hindari mandi dengan air terlalu panas karena bisa memperparah kulit kering."
+                tips: "Pastikan untuk minum cukup air dan hindari mandi dengan air terlalu panas karena bisa memperparah kulit kering, Hyaluronic acid dapat membantu menjaga kelembapan kulit dan mencegah tanda-tanda penuaan."
             }
         ]
     },
@@ -29,7 +29,7 @@ const skinProblems = {
                     "4. Gunakan sunscreen yang ringan dan non-comedogenic",
                     "5. Pertimbangkan penggunaan clay mask 1-2 kali seminggu"
                 ],
-                tips: "Hindari produk yang terlalu rich atau creamy, dan jangan lupa double cleansing di malam hari."
+                tips: "Hindari produk yang terlalu rich atau creamy, dan jangan lupa double cleansing di malam hari, Ceramide dapat menjadi pilihan anda yang dapat membantu menjaga kesehatan kulit berminyak."
             }
         ]
     },
@@ -46,7 +46,7 @@ const skinProblems = {
                     "4. Gunakan moisturizer yang minimal ingredients",
                     "5. Pakai sunscreen mineral/physical (zinc oxide/titanium dioxide)"
                 ],
-                tips: "Selalu patch test produk baru dan hindari eksfoliasi yang terlalu keras."
+                tips: "Selalu patch test produk baru dan hindari eksfoliasi yang terlalu keras, Nicotinamide yang dapat membantu meredakan kemerahan dan iritasi pada kulit sensitif."
             }
         ]
     },
@@ -63,7 +63,7 @@ const skinProblems = {
                     "4. Jangan lupa gunakan sunscreen setiap hari",
                     "5. Pertimbangkan penggunaan produk dengan niacinamide"
                 ],
-                tips: "Hindari memencet jerawat dan jaga kebersihan wajah serta barang-barang yang bersentuhan dengan wajah seperti handuk dan sarung bantal."
+                tips: "Hindari memencet jerawat dan jaga kebersihan wajah serta barang-barang yang bersentuhan dengan wajah seperti handuk dan sarung bantal,  dengan salicylic acid bekerja dengan cara mengangkat sel-sel kulit mati yang menyumbat pori-pori ."
             }
         ]
     }
